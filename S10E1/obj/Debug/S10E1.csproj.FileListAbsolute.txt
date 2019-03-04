@@ -1,0 +1,7 @@
+C:\Users\thiag\OneDrive\Documentos\Termomecänica\Curso CShap POO\Exercicio pratico\S10E1\S10E1\bin\Debug\S10E1.exe.config
+C:\Users\thiag\OneDrive\Documentos\Termomecänica\Curso CShap POO\Exercicio pratico\S10E1\S10E1\bin\Debug\S10E1.exe
+C:\Users\thiag\OneDrive\Documentos\Termomecänica\Curso CShap POO\Exercicio pratico\S10E1\S10E1\bin\Debug\S10E1.pdb
+C:\Users\thiag\OneDrive\Documentos\Termomecänica\Curso CShap POO\Exercicio pratico\S10E1\S10E1\obj\Debug\S10E1.csprojAssemblyReference.cache
+C:\Users\thiag\OneDrive\Documentos\Termomecänica\Curso CShap POO\Exercicio pratico\S10E1\S10E1\obj\Debug\S10E1.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Documentos\Termomecänica\Curso CShap POO\Exercicio pratico\S10E1\S10E1\obj\Debug\S10E1.exe
+C:\Users\thiag\OneDrive\Documentos\Termomecänica\Curso CShap POO\Exercicio pratico\S10E1\S10E1\obj\Debug\S10E1.pdb
